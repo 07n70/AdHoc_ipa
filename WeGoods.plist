@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.navilight.liver.doctor</string>
+				<string>com.navilight.test0</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LiverDoctor</string>
+				<string>WeGoods</string>
 			</dict>
 		</dict>
 	</array>
